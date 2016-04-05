@@ -1,0 +1,36 @@
+﻿{
+  "error": false,
+   "baseurl": "https://s3-us-west-2.amazonaws.com/"
+   "thumbsbucket": "teleportcallthumbs/"
+   "videosbucket": "teleportcallvideos/"
+   "expeditionslist": 
+	[
+    
+		{
+    "title": "Donald Trump Rally",
+    "thumbfile": "trumpnyt.jpg",
+    "videofile": "trumpnyt.mp4",
+    "uploader": "NYTimes",
+    "unlock": true    },
+    
+		{    "title": "Sunset Timelapse",
+    "thumbfile": "sunset.jpg",
+    "videofile": "sunset.mp4",
+    "uploader": "Experience360",
+    "unlock": true    },
+ 
+		{
+    "title": "Las Vegas Watershow",
+    "thumbfile": "watershow.jpg",
+    "videofile": "watershow.mp4",
+    "uploader": "Experience360",
+    "unlock": true    },
+    
+		{    "title": "Rose Parade",
+    "thumbfile": "roseparade.jpg",
+    "videofile": "roseparade.mp4",
+    "uploader": "Experience360",
+    "unlock": true    }
+	]
+
+}
