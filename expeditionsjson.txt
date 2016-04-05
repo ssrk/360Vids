@@ -9,14 +9,14 @@
             "thumbfile": "trumpnyt.jpg",
             "videofile": "trumpnyt.mp4",
             "uploader": "NYTimes",
-            "unlock": true
+            "unlock": false
         },
         {
             "title": "Sunset Timelapse",
             "thumbfile": "sunset.jpg",
             "videofile": "sunset.mp4",
             "uploader": "Experience360",
-            "unlock": true
+            "unlock": false
         },
         {
             "title": "Las Vegas Watershow",
